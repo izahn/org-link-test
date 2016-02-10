@@ -1,5 +1,5 @@
 
 
-[[file:file2.org][test link]]
+[[file:file1.org][test link]]
 
 
