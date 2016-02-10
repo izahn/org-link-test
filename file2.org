@@ -1,5 +1,12 @@
 
 
-[[file:file1.org][test link]]
 
+Here are some links to sections of this document:
+- [[*File 2 heading 1][File 2 heading 1]]
+- [[*File%202%20heading%202%20link%20to%20%5B%5Bfile:file1.org::*File%25201%2520heading%25201.2%5D%5BFile%201%20heading%201.2%5D%5D][File 2 heading 2]]
+* File 2 heading 1
+Here is a link to a specific heading in [[file:file1.org][test link]]:
+[[file:file1.org::*File%201%20heading%201.2][File 1 heading 1.2]].
 
+* File 2 heading 2 link to [[file:file1.org::*File%201%20heading%201.2][File 1 heading 1.2]]
+The heading above contains a link to a specific heading in [[file:file1.org][test link]]
